@@ -2,10 +2,10 @@
 ЗАМЕНИ "твой_ник" ВЕЗДЕ В ЭТОМ ФАЙЛЕ НА ТВОЙ РЕАЛЬНЫЙ НИКНЕЙМ НА GITHUB! 
 -->
 
-<h1 align="center">Дароу, кумите на связи/h1>
+<h1 align="center">Дароу, кумите на связи /h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Vibecoder;Frontend+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Pridurok; idiot; Vaybkoder; Chmo" alt="Typing SVG" />
 </div>
 
 ---
